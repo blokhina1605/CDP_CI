@@ -14,6 +14,7 @@ public class Main {
         try (ReadableByteChannel rbc = Channels.newChannel(url.openStream());
              FileOutputStream fos = new FileOutputStream("target\\File.txt")) {
             fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
+            System.out.println("File created");
         } catch (IOException e) {
             System.out.println("Something was wrong during the download");
         }
