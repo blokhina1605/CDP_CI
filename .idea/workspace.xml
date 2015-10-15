@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e0b78f1-bf98-469a-aa14-c570490887ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cdp/ci/blokhina/Main.java" afterPath="$PROJECT_DIR$/src/main/java/cdp/ci/blokhina/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
     </list>
     <ignored path="CDP_CI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cdp/ci/blokhina/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.30222222">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -503,7 +502,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cdp/ci/blokhina/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30222222">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
